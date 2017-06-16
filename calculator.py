@@ -39,7 +39,7 @@ def main():
             print ("Invalid input")
             exit()
         
-        return k
+        return k #it will return the value of k
 
 
     print ("\nScientific Calculator\nEg: pi * sin(90) - sqrt(81)")
